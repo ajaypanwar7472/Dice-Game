@@ -4,7 +4,7 @@
 </h1>
 
 
-  <img title="Dice Game" src="images/preview.png" alt="Portfolio" width="700" />
+  <img title="Dice Game" src="images/preview.png" alt="Portfolio"/>
 
 ## 🛠 Built With 
 
