@@ -1,10 +1,10 @@
 <h1 align="center">
   <br>
- Portfolio
+ Dice Game
 </h1>
 
 
-  <img title="Dice Game" src="images/preview.png" alt="Portfolio"/>
+  <img title="Dice Game" src="images/preview.png" alt=""/>
 
 ## 🛠 Built With 
 
@@ -32,7 +32,7 @@ git clone https://github.com/ajaypanwar7472/Dice-Game.git
 
 2. Open the project in your preferred code editor.
 
-3. Launch the `index.html` file in a web browser to view the Netflix home page.
+3. Launch the `index.html` file in a web browser to view the Dice game.
 
 4. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
 
